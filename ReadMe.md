@@ -8,3 +8,8 @@
 | ------------- | ------------- |
 | Devolping Version:  | 1.0 - Status: Devolping  |
 | Alpha Version:  | Not Programmed  |
+
+
+| -------------  | -------------  |
+| Api:  | OpenWeatherMap   |
+
