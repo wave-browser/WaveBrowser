@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WaveBrowser</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">PUT STRING ON HERE</string>
+    <string name="test">file:///android_asset/www/index.html</string>
+    <string name="buttonsearch">buttonsearch</string>
+    <string name="gobacksn">Go back</string>
+
+
+</resources>
