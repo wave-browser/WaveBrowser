@@ -6,8 +6,10 @@
 
 |   |  |
 | ------------- | ------------- |
-| Devolping Version:  | 1.0 - Status: Devolping  |
+| Devolping Version:  | 1.0 - Status: Stopped  |
 | Alpha Version:  | Not Programmed  |
 | Api:  | OpenWeatherMap   |
+| Stopped Developing  | 
+
 
 
